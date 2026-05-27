@@ -24,7 +24,8 @@ This project uses an Arduino Nano to control a simple traffic light system (Red,
 ### 👨‍🔧 Developer Info  
 **Name:** MD. Riyad Hasan  
 **GitHub:** [riyadhasan24](https://github.com/riyadhasan24)  
-**WhatsApp:** +8801730288553  
+**WhatsApp:** +8801730288553    
+**Email:** rh30288553@gmail.com  
 
 🎓 Passionate about Arduino, electronics, and automation projects.  
 📍 From Bogura, Bangladesh.
